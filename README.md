@@ -114,7 +114,7 @@ global.language = indonesia  //change indonesia to english if you don't understa
 // Other
 // Other
 global.botname = "𝘿𝙞𝙩𝙯" //namabot kalian
-global.ownername= "𝘿𝙞𝙩𝙯 𝙈𝙖𝙠𝙚𝙧𝙨" //nama kalian
+global.ownername= "𝘿𝙞𝙩𝙯 𝙈𝙖𝙠𝙚𝙧" //nama kalian
 global.myweb ="https://www.tiktok.com/@adit.offlclal" //bebas asal jan hapus
 global.youtube = "https://youtube.com/channel/UCRJNLP1ko2rx0j9YxKEJ8Ew" //bebas asal jan hapus
 global.myweb2 = "https://www.instagram.com/aditya.farabi_2008" //bebas
@@ -130,7 +130,7 @@ global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
 global.packname = '© 𝘿𝙞𝙩𝙯' //sticker wm ubah
-global.author = '𝘿𝙞 𝘽𝙪𝙖𝙩 𝙊𝙡𝙚𝙝 𝘿𝙞𝙩𝙯 𝙈𝙖𝙠𝙚𝙧𝙨' //sticker wm ganti nama kalian
+global.author = '𝘿𝙞 𝘽𝙪𝙖𝙩 𝙊𝙡𝙚𝙝 𝘿𝙞𝙩𝙯 𝙈𝙖𝙠𝙚𝙧' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
